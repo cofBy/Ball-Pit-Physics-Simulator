@@ -1,6 +1,6 @@
-# Ball-Pit-Physics-Simulator
+<img width="841" height="660" alt="BPPS" src="https://github.com/user-attachments/assets/42087980-155f-4246-afb5-ee0c81b11c76" />
 
-<img width="841" height="660" alt="BPPS" src="https://github.com/user-attachments/assets/40924277-c5a2-4302-814e-d192368ad973" />
+# Ball-Pit-Physics-Simulator
 
 A physics simulator that simulates balls (sort of) accurately with customizable values such as restitution, friction, and many more.  
 I made this for fun, not for personal use, not for YOUR use. I made it just to challenge myself and do something new.
